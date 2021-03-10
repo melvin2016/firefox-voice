@@ -4,7 +4,7 @@ Firefox Voice is an experiment from [Mozilla Emerging Technologies](https://rese
 
 Firefox Voice is a browser extension that allows you to give voice commands to your browser, such as "what is the weather?" or "find the gmail tab". Ultimately the goal is to see if we can facilitate meaningful user interactions with the web using just voice-based interactions. Initially the goal is to provide _any_ useful interactions.
 
-## Launcher Usage
+## Launcher  Usage
 
 Launcher is located in the top right corner of the browser window having mic icon like shown below.
 
@@ -18,7 +18,7 @@ Launcher contains 2 input modes :
 - **Text** : You can paste text or start typing the command when the popup is open. An input box and __Go__ button appears when you start typing.
 
 **How it works** -  [Demo video](https://www.youtube.com/watch?v=3sqKsfj8WRE&feature=emb_title)
-
+  
 
 ## Discussion
 
@@ -29,7 +29,7 @@ If you'd like to discuss the tool, development, or contributions, we are in the 
 ## Developing
 
 There is some documentation in the [docs/](./docs/) directory, notably [writing an intent](./docs/writing-an-intent.md).
-
+   
 Note:
 
 1. Download the latest LTS version of NodeJs before running above npm commands.
